@@ -9,7 +9,7 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'ea379818-23d5-44d8-9b52-6994522504c5'
+  azureSubscription: 'c18ddafe-0269-48f7-8ed9-a1666a6bfaa3'
   
   # Web app name
   webAppName: 'xilu1999helloworld'
